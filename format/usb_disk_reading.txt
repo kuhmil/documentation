@@ -1,0 +1,2 @@
+sudo mkfs.vfat /dev/sdc1
+sudo mkfs.ext4 /dev/mmcblk0
