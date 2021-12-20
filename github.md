@@ -1,10 +1,10 @@
 ## Deleting remote and local branches
 
-#Local
+### Local
 
 git branch -D <branch_name>
 
-#Remote
+# Remote
 
 git push origin --d <your_branch>
 
